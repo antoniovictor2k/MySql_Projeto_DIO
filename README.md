@@ -1,4 +1,4 @@
-# MySql_Projeto_DIO
+# MySql_Projeto_DIO_Ecommercer
 
 Projeto DIO com MYSQL
 
